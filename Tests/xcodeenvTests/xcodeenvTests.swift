@@ -13,7 +13,6 @@ final class xcodeenvTests: XCTestCase {
     func testHelp() {
         let withoutArguments = run(arguments: [])
         let helpOption = run(arguments: ["--help"])
-        let helpShortOption = run(arguments: ["-h"])
 
         print("helpShortOption")
         XCTAssertEqual(withoutArguments, helpOption)
