@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import TSCUtility
+import SPMUtility
 
 extension Version: ArgumentKind {
 
