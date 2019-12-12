@@ -27,6 +27,15 @@
           "revision": "9abcc2260438177cecd7cf5185b144d13e74122b",
           "version": "0.5.0"
         }
+      },
+      {
+        "package": "Unxip",
+        "repositoryURL": "https://github.com/thii/Unxip",
+        "state": {
+          "branch": "master",
+          "revision": "1e344e3d7e9d3932d5aaa3cd9a077f21c7ef75e5",
+          "version": null
+        }
       }
     ]
   },

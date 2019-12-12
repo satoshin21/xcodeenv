@@ -2,6 +2,9 @@ import Swift
 import Basic
 import Foundation
 import SPMUtility
+import Utility
+import Path
+import Command
 
 func main(_ args: [String]) {
 
@@ -38,6 +41,7 @@ func main(_ args: [String]) {
         if let versionName = res.get(local_versionName) {
             print("versionName: \(versionName)")
         }
+        
 
     } catch let e as ArgumentParserError {
 

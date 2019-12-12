@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import SPMUtility
 import Basic
 
 public func print(error: Error) {
